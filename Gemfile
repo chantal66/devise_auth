@@ -7,6 +7,7 @@ end
 
 gem 'bootstrap-sass'
 gem 'devise'
+gem 'devise_zxcvbn'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jquery-turbolinks'
